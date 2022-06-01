@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![videoshow1 (1)](https://user-images.githubusercontent.com/97036885/171506926-934cda10-9a53-4cdd-ab41-601bb6a4c9d5.gif)
+
 **CarlosCues/CarlosCues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
