@@ -1,7 +1,12 @@
-### Hola,soy Carlos👋
+### Hola!👋
+
+## Quién soy 🧑‍🦱
+
+Pues yo soy Carlos, siempre he sido muy curioso y hace unos años el Machine Learning despertó mi interés,por lo que he decidido dar el paso y meterme en este mundo. 
+Lo que mas me gusta es el desarrollar mis propias ideas y hacerlas realidad.
 
 
-## Lo que conozco: 💻
+## Lo que conozco: 
 
 Python, SQL, Pandas,Sklearn, Tensorflow, Streamlit
 
