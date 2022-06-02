@@ -1,21 +1,20 @@
-### Hi there 👋
+### Hola,soy Carlos👋
 
-[![Your-name](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png "We're working on our new Github profile. Stay tuned.")](https://your-website)
+
+## Lo que conozco: 💻
+
+Python, SQL, Pandas,Sklearn, Tensorflow, Streamlit
+
+
+### Lo que se hacer: 😀
 
 ![videoshow1 (1)](https://user-images.githubusercontent.com/97036885/171567805-a56b193b-b546-4657-81f0-e663ed076eb2.gif)
 
+### Dónde estoy: ✉ 
+
+c.cuestac@yahoo.es
 
 
-**CarlosCues/CarlosCues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
