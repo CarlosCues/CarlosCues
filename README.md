@@ -2,7 +2,7 @@
 
 ## Quién soy 🧑‍🦱
 
-Pues yo soy Carlos, siempre he sido muy curioso y hace unos años el Machine Learning despertó mi interés. Considero que en el futuro la tecnologia y la data jugará un papel muy importante en nuestras vidas por lo que he decidido dar el paso y meterme en este mundo. 
+Soy Carlos siempre he sido muy curioso y hace unos años el Machine Learning despertó mi interés. Considero que en el futuro la tecnologia y la data jugará un papel muy importante en nuestras vidas por lo que he decidido dar el paso y meterme en este mundo. 
 Lo que mas me gusta es el desarrollar mis propias ideas y hacerlas realidad.
 
 
