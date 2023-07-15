@@ -22,6 +22,7 @@ Proyecto de ML de reconocimineto gestual con Python, OpenCV y SKlearn:
 ## Dónde estoy: ✉ 
 
 c.cuestac@yahoo.es 
+[linkedIn](https://www.linkedin.com/in/carloscuestacantera/?locale=en_US)
 
 
 
