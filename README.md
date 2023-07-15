@@ -13,7 +13,7 @@ Python, .Net, SQL, MVC, Machine Learning, Azure y AWS.
 
 ## Lo que se hacer: 😀
 
-Proyecto de reconocimineto gestual con Python, OpenCV y Tensor flow:
+Proyecto de ML de reconocimineto gestual con Python, OpenCV y SKlearn:
 
 [Vive-o-muere](https://github.com/CarlosCues/Vive-o-muere)
 
