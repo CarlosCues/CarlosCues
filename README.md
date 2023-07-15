@@ -16,6 +16,7 @@ Python, .Net, SQL, MVC, Machine Learning, Azure y AWS.
 Proyecto de reconocimineto gestual con Python, OpenCV y Tensor flow:
 
 [Vive-o-muere](https://github.com/CarlosCues/Vive-o-muere)
+
 ![videoshow1 (1)](https://user-images.githubusercontent.com/97036885/171567805-a56b193b-b546-4657-81f0-e663ed076eb2.gif)
 
 ## Dónde estoy: ✉ 
