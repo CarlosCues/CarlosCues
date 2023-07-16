@@ -19,6 +19,8 @@ Python, .Net, SQL, MVC, Machine Learning, Azure y AWS.
 
 ![videoshow1 (1)](https://user-images.githubusercontent.com/97036885/171567805-a56b193b-b546-4657-81f0-e663ed076eb2.gif)
 
+### Proyecto de un recomendador de películas web con Django:
+
 ### [Film Recomendator](https://github.com/CarlosCues/FilmRecomendator/tree/master)
 
 ## Dónde estoy: ✉ 
