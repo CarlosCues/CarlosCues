@@ -13,11 +13,13 @@ Python, .Net, SQL, MVC, Machine Learning, Azure y AWS.
 
 ## Lo que se hacer: 😀
 
-Proyecto de ML de reconocimineto gestual con Python, OpenCV y SKlearn:
+### Proyecto de ML de reconocimineto gestual con Python, OpenCV y SKlearn:
 
 ### [Vive-o-muere](https://github.com/CarlosCues/Vive-o-muere)
 
 ![videoshow1 (1)](https://user-images.githubusercontent.com/97036885/171567805-a56b193b-b546-4657-81f0-e663ed076eb2.gif)
+
+### [Film Recomendator](https://github.com/CarlosCues/FilmRecomendator/tree/master)
 
 ## Dónde estoy: ✉ 
 
